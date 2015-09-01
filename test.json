@@ -1,125 +1,125 @@
 [
     {
-    "name": "http://localhost:8080/TesKart/web/images/1.jpg",
+    "name": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJDdEMaCeJFilUwYrohECyObG_jIE-q9fcZwZ2mWcH7bZlLpyl",
     "brand" :"Nokia",
     "price" : "1500",
     "type" : "Smart",
     "os"   : "Android"
     },
     { 
-    "name": "http://localhost:8080/TesKart/web/images/2.jpg",
+    "name": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQb8-MEBq8J6JyShblrzewZwZIx46fadD5bCLwG2Bi1XH3qKXRyUw",
     "brand" :"Nokia",
     "price" : "2500",
     "type" : "Smart",
     "os"   : "Android"
     },
     {
-    "name": "http://localhost:8080/TesKart/web/images/3.jpg",
+    "name": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQb8-MEBq8J6JyShblrzewZwZIx46fadD5bCLwG2Bi1XH3qKXRyUw",
     "brand" :"Nokia",
     "price" : "2700",
     "type" : "Smart",
     "os"   : "Android"
     },
     {
-    "name": "http://localhost:8080/TesKart/web/images/123.jpg",
+    "name": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQb8-MEBq8J6JyShblrzewZwZIx46fadD5bCLwG2Bi1XH3qKXRyUw",
     "brand" :"Nokia",
     "price" : "6000",
     "type" : "Smart",
     "os"   : "Android"
     },
     {
-    "name": "http://localhost:8080/TesKart/web/images/222.jpg",
+    "name": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQb8-MEBq8J6JyShblrzewZwZIx46fadD5bCLwG2Bi1XH3qKXRyUw",
     "brand" :"Nokia",
     "price" : "12000",
     "type" : "Smart",
     "os"   : "Android"
     },
     {
-    "name": "http://localhost:8080/TesKart/web/images/333.jpg",
+    "name": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQb8-MEBq8J6JyShblrzewZwZIx46fadD5bCLwG2Bi1XH3qKXRyUw",
     "brand" :"Nokia",
     "price" : "12000",
     "type" : "Smart",
     "os"   : "Android"
     },
     {
-    "name": "http://localhost:8080/TesKart/web/images/444.jpg",
+    "name": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQb8-MEBq8J6JyShblrzewZwZIx46fadD5bCLwG2Bi1XH3qKXRyUw",
     "brand" :"Nokia",
     "price" : "12000",
     "type" : "Smart",
     "os"   : "Android"
     },
     {
-    "name": "http://localhost:8080/TesKart/web/images/444.jpg",
+    "name": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQb8-MEBq8J6JyShblrzewZwZIx46fadD5bCLwG2Bi1XH3qKXRyUw",
     "brand" :"Nokia",
     "price" : "15000",
     "type" : "Smart",
     "os"   : "Android"
     },
     {
-    "name": "http://localhost:8080/TesKart/web/images/444.jpg",
+    "name": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQb8-MEBq8J6JyShblrzewZwZIx46fadD5bCLwG2Bi1XH3qKXRyUw",
     "brand" :"Nokia",
     "price" : "15000",
     "type" : "Smart",
     "os"   : "Android"
     },
     {
-    "name": "http://localhost:8080/TesKart/web/images/555.jpg",
+    "name": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQb8-MEBq8J6JyShblrzewZwZIx46fadD5bCLwG2Bi1XH3qKXRyUw",
     "brand" :"Nokia",
     "price" : "15000",
     "type" : "Smart",
     "os"   : "Android"
     },
      {
-    "name": "http://localhost:8080/TesKart/web/images/666.jpg",
+    "name": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQb8-MEBq8J6JyShblrzewZwZIx46fadD5bCLwG2Bi1XH3qKXRyUw",
     "brand" :"Nokia",
     "price" : "15000",
     "type" : "Smart",
     "os"   : "Android"
     },
      {
-    "name": "http://localhost:8080/TesKart/web/images/777.jpg",
+    "name": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQb8-MEBq8J6JyShblrzewZwZIx46fadD5bCLwG2Bi1XH3qKXRyUw",
     "brand" :"Nokia",
     "price" : "20000",
     "type" : "Smart",
     "os"   : "Android"
     },
     {
-    "name": "http://localhost:8080/TesKart/web/images/888.jpg",
+    "name": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQb8-MEBq8J6JyShblrzewZwZIx46fadD5bCLwG2Bi1XH3qKXRyUw",
     "brand" :"Nokia",
     "price" : "30000",
     "type" : "Smart",
     "os"   : "Android"
     },
     {
-    "name": "http://localhost:8080/TesKart/web/images/9999.jpg",
+    "name": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQb8-MEBq8J6JyShblrzewZwZIx46fadD5bCLwG2Bi1XH3qKXRyUw",
     "brand" :"Nokia",
     "price" : "30000",
     "type" : "Smart",
     "os"   : "Android"
     },
     {
-    "name": "http://localhost:8080/TesKart/web/images/apple.jpg",
+    "name": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQb8-MEBq8J6JyShblrzewZwZIx46fadD5bCLwG2Bi1XH3qKXRyUw",
     "brand" :"Nokia",
     "price" : "30000",
     "type" : "Smart",
     "os"   : "Android"
     },
     {
-    "name": "http://localhost:8080/TesKart/web/images/cam1.jpg",
+    "name": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQb8-MEBq8J6JyShblrzewZwZIx46fadD5bCLwG2Bi1XH3qKXRyUw",
     "brand" :"Nokia",
     "price" : "30000",
     "type" : "Smart",
     "os"   : "Android"
     },
     {
-    "name": "http://localhost:8080/TesKart/web/images/cam1.jpg",
+    "name": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQb8-MEBq8J6JyShblrzewZwZIx46fadD5bCLwG2Bi1XH3qKXRyUw",
     "brand" :"Nokia",
     "price" : "30000",
     "type" : "Smart",
     "os"   : "Android"
     },
     {
-    "name": "http://localhost:8080/TesKart/web/images/phone.jpg",
+    "name": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQb8-MEBq8J6JyShblrzewZwZIx46fadD5bCLwG2Bi1XH3qKXRyUw",
     "brand" :"Nokia",
     "price" : "30000",
     "type" : "Smart",
